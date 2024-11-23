@@ -13,6 +13,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Participate', link: '/challenge/' },
+          { text: 'Results', link: '/results/' },
           { text: 'FAQ', link: '/faq/' },
           { text: 'About us', link: '/about/' },
         ],
@@ -98,6 +99,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Overzicht', link: '/nl/' },
+          { text: 'Resultaten', link: '/nl/results/' },
           { text: 'Deelnemen', link: '/nl/challenge/' },
           { text: 'FAQ', link: '/nl/faq/' },
           { text: 'Over ons', link: '/nl/about/' },
