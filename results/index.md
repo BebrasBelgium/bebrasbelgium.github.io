@@ -11,7 +11,7 @@ Below you will find the top 15 participants in each age category.
 
 ## Ewok (Primary school 5th/6th year)
 
-Felicitaties aan de 6 leerlingen die een perfecte score van 160 haalden!
+Congratulations to the 6 students who scored a perfect 160!
 
 <table class="table">
     <thead>
@@ -112,7 +112,9 @@ Felicitaties aan de 6 leerlingen die een perfecte score van 160 haalden!
     </tbody>
 </table>
 
-## Wooki (Secondary school 1st/2nd year)    
+## Wooki (Secondary school 1st/2nd year) 
+
+Congratulations to the 4 students who scored a perfect 200!
 
 <table class="table">
     <thead>
@@ -244,6 +246,8 @@ Felicitaties aan de 6 leerlingen die een perfecte score van 160 haalden!
 </table>
 
 ## Padawan (Secondary school 3rd/4th year)
+
+Congratulations to **Fonne Vervloet** who scored a perfect 204!
 
 <table class="table">
     <thead>
