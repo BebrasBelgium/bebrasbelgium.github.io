@@ -11,7 +11,7 @@ Below you will find the top 15 participants in each age category.
 
 ## Ewok (Primary school 5th/6th year)
 
-Congratulations to **Ella Wouters**, **Ivy Hu**, **Kristiaan De Smet** en **Noor Van Nuffel** who scored a perfect 160!
+Congratulations to **Ella Wouters**, **Ivy Hu**, **Kristiaan De Smet** and **Noor Van Nuffel** who scored a perfect 160!
 
 <table class="table">
     <thead>
@@ -22,7 +22,7 @@ Congratulations to **Ella Wouters**, **Ivy Hu**, **Kristiaan De Smet** en **Noor
             <th style="width: 5%">Score</th>
         </tr>
     </thead>
-    <tbody>van
+    <tbody>
     <tr >
         <td>1</td>
         <td>Ella Wouters</td>
