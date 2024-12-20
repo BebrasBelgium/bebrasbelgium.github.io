@@ -248,7 +248,7 @@ Congratulations to **Jonathan Dechamps**, **Tibo Geeraerts** and **Rik Verhelst*
         <td>184</td>
     </tr><tr >
         <td></td>
-        <td>Van Geen Line</td>
+        <td>Van Geet Line</td>
         <td>Katholiek Secundair Onderwijs Ternat - Sint-Angela</td>
         <td>184</td>
     </tr><tr >
