@@ -3,8 +3,8 @@ layout: homepage
 challenge:
   challenge: Bebras-wedstrijd
   current_edition: 2024
-  pre: 'De 13e editie van de Belgische Bebras-wedstrijd ging door van'
-  dates: 12 november t.e.m. 22 november 2024
+  pre: 'De 14e editie van de Belgische Bebras-wedstrijd gaat door van'
+  dates: 10 november t.e.m. 22 november 2025
 actions:
   test_platform: Je kan een proefwedstrijdje anoniem uitproberen op de wedstrijd-server.
   test: Proefwedstrijd

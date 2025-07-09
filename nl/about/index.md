@@ -13,7 +13,7 @@ officiële vertegenwoordiger is voor België.
 
 ## Stuurgroep
 
-De Belgische **stuurgroep** voor editie 2024 bestaat uit:
+De Belgische **stuurgroep** voor editie 2025 bestaat uit:
 
 - Dr Sébastien Combéfis (_Ministère de la Fédération Wallonie-Bruxelles_)
 - Prof. Kris Coolsaet (_Universiteit Gent_)

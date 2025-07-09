@@ -2,9 +2,9 @@
 layout: homepage
 challenge:
   challenge: Bebras Challenge
-  current_edition: 2024
-  pre: 'The 13th edition of the Bebras Belgium challenge took place from:'
-  dates: November 11 to November 22, 2024
+  current_edition: 2025
+  pre: 'The 14th edition of the Bebras Belgium challenge will take place from:'
+  dates: November 10 to November 22, 2025
 actions:
   test_platform: You can test a challenge anonymously on the dedicated platform.
   test: Test the challenge

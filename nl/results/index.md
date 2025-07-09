@@ -7,7 +7,7 @@ next: false
 
 De Bebras-wedstrijd - editie 2024 - ging door van **dinsdag 12 november** tot en met **vrijdag 22 november 2024**, voor
 de
-dertiende keer in België. De wedstrijd werd enkle [online](https://bebras.ugent.be/) georganiseerd.
+dertiende keer in België. De wedstrijd werd enkel [online](https://bebras.ugent.be/) georganiseerd.
 Er deden **5652 leerlingen** mee.
 
 Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.

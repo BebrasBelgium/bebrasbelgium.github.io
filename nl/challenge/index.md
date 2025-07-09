@@ -10,8 +10,8 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 
 # Deelnemen
 
-Dit jaar ging de Bebras-wedstrijd door van **12 november 2024** t.e.m. **22 november 2024**.
-Deze **dertiende editie** vond **online** plaats **in de klas**. Deelname was **gratis**.
+Dit jaar gaat de Bebras-wedstrijd door van **10 november 2025** t.e.m. **22 november 2025**.
+Deze **veertiende editie** vindt **online** plaats **in de klas**. Deelname is **gratis**.
 
 Voor vragen over de wedstrijd kan 
 je de [veelgestelde vragen](../faq/) raadplegen of [ons contacteren](../about/contact/) als je daar het antwoord niet

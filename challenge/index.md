@@ -10,8 +10,8 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 
 # Participate
 
-This year, the Bebras challenge took place from **November 12, 2024** to **November 22, 2024**. This **thirteenth
-edition** took place **online** in class. Participation was **free**.
+This year, the Bebras challenge takes place from **November 10, 2025** to **November 22, 2025**. This **fourteenth
+edition** takes place **online** in class. Participation is **free**.
 
 For any questions about the challenge, check
 the [frequently asked questions](../faq/) or [contact us](../about/contact/), if you do not find an answer there.
