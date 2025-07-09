@@ -2,7 +2,7 @@
 layout: homepage
 challenge:
   challenge: Bebras-wedstrijd
-  current_edition: 2024
+  current_edition: 2025
   pre: 'De 14e editie van de Belgische Bebras-wedstrijd gaat door van'
   dates: 10 november t.e.m. 22 november 2025
 actions:
