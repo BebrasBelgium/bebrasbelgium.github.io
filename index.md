@@ -3,7 +3,7 @@ layout: homepage
 challenge:
   challenge: Bebras Challenge
   current_edition: 2025
-  pre: 'The 14th edition of the Bebras Belgium challenge will take place from:'
+  pre: 'The 14th edition of the Bebras Belgium challenge took place from:'
   dates: November 10 to November 22, 2025
 actions:
   test_platform: You can test a challenge anonymously on the dedicated platform.
@@ -22,4 +22,4 @@ them to **computational thinking** and **problem-solving**. This challenge, targ
 takes place in schools during two weeks in fall. It is an **international challenge** already organised in more than 80
 countries from all over the world.
 
-The Belgian top 15 for the Bebras challenge of 2024 can be found on the [results page](results/).
+Preliminary results for the Bebras challenge of 2025 can be found on the [results page](results/).
