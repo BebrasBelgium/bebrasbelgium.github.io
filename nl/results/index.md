@@ -27,7 +27,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     <tr >
         <td>1</td>
         <td>Robin Sals</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>152</td>
     </tr><tr >
         <td>2</td>
@@ -42,7 +42,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>4</td>
         <td>Linus Spincemaille</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>128</td>
     </tr><tr >
         <td>5</td>
@@ -57,7 +57,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>7</td>
         <td>Jules Sijmons</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>126</td>
     </tr><tr >
         <td>8</td>
@@ -67,7 +67,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>9</td>
         <td>Mario Sanchez-Martinez</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>120</td>
     </tr><tr >
         <td>10</td>
@@ -92,7 +92,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>14</td>
         <td>Arvin Demunter</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>108</td>
     </tr><tr >
         <td></td>
@@ -107,7 +107,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td></td>
         <td>Pippa Wevers</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>108</td>
     </tr>
     </tbody>
@@ -168,7 +168,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>9</td>
         <td>Arnav Hajarnavis</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>164</td>
     </tr><tr >
         <td></td>
@@ -370,7 +370,7 @@ Hieronder vind je telkens de 15 beste deelnemers in elke leeftijdscategorie.
     </tr><tr >
         <td>6</td>
         <td>Joppe Wevers</td>
-        <td>Spring-stof (Kessel-Lo)</td>
+        <td>SPRING-STOF (Leuven)</td>
         <td>154</td>
     </tr><tr >
         <td>7</td>
