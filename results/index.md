@@ -30,21 +30,16 @@ Below you will find the top 15 participants in each age category.
         <td>152</td>
     </tr><tr >
         <td>2</td>
-        <td>Ben Torfs</td>
-        <td>GO! atheneum Erasmus De Pinte</td>
-        <td>132</td>
-    </tr><tr >
-        <td></td>
         <td>Noor Legein</td>
-        <td>Onze-Lieve-Vrouwecollege Lijsterbeslaan (Mariakerke)</td>
+        <td>Vrije Basisschool - Onze-Lieve-Vrouwecollege Mariakerke-Lijsterbeslaan (Oostende)</td>
         <td>132</td>
     </tr><tr >
-        <td>4</td>
+        <td>3</td>
         <td>Linus Spincemaille</td>
         <td>SPRING-STOF (Leuven)</td>
         <td>128</td>
     </tr><tr >
-        <td>5</td>
+        <td>4</td>
         <td>Charlie Impens</td>
         <td>Gemeentelijke basisschool (De Pinte)</td>
         <td>127</td>
@@ -54,49 +49,39 @@ Below you will find the top 15 participants in each age category.
         <td>Gemeentelijke basisschool (De Pinte)</td>
         <td>127</td>
     </tr><tr >
-        <td>7</td>
+        <td>6</td>
         <td>Jules Sijmons</td>
         <td>SPRING-STOF (Leuven)</td>
         <td>126</td>
     </tr><tr >
-        <td>8</td>
+        <td>7</td>
         <td>Otto-Jan Nijs</td>
         <td>Gemeentelijke basisschool (De Pinte)</td>
         <td>123</td>
     </tr><tr >
-        <td>9</td>
+        <td>8</td>
         <td>Mario Sanchez-Martinez</td>
         <td>SPRING-STOF (Leuven)</td>
         <td>120</td>
     </tr><tr >
-        <td>10</td>
+        <td>9</td>
         <td>Maenhout Lise</td>
         <td>Sint-Franciscusinstituut (Melle)</td>
         <td>118</td>
     </tr><tr >
-        <td>11</td>
+        <td>10</td>
         <td>Ilias D&#x27;Hooge</td>
         <td>Gemeentelijke basisschool (De Pinte)</td>
         <td>116</td>
     </tr><tr >
-        <td>12</td>
-        <td>Michelle Onderbeke</td>
-        <td>GO! atheneum Erasmus De Pinte</td>
-        <td>112</td>
-    </tr><tr >
-        <td>13</td>
+        <td>11</td>
         <td>Maarten Logie Alaerts</td>
         <td>Gemeentelijke basisschool (De Pinte)</td>
         <td>111</td>
     </tr><tr >
-        <td>14</td>
+        <td>12</td>
         <td>Arvin Demunter</td>
         <td>SPRING-STOF (Leuven)</td>
-        <td>108</td>
-    </tr><tr >
-        <td></td>
-        <td>Elise Claus</td>
-        <td>GO! atheneum Erasmus De Pinte</td>
         <td>108</td>
     </tr><tr >
         <td></td>
@@ -108,6 +93,11 @@ Below you will find the top 15 participants in each age category.
         <td>Pippa Wevers</td>
         <td>SPRING-STOF (Leuven)</td>
         <td>108</td>
+    </tr><tr >
+        <td>15</td>
+        <td>Dirk van den Brandt</td>
+        <td>VBS De Vlinder (Baarle-Hertog)</td>
+        <td>104</td>
     </tr>
     </tbody>
 </table>
