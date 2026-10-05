@@ -10,7 +10,7 @@ at world level is managed by an international committee where the official repre
 
 ## Steering committee
 
-The Belgian **steering committee** for the 2025 edition consists of:
+The Belgian **steering committee** for the 2026 edition consists of:
 
 - Dr. Sébastien Combéfis (_Ministère de la Fédération Wallonie-Bruxelles_)
 - Prof. Kris Coolsaet (_Universiteit Gent_)

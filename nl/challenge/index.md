@@ -10,7 +10,7 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 
 # Deelnemen
 
-Dit jaar gaat de Bebras-wedstrijd door van **10 november 2025** t.e.m. **22 november 2025**.
+Dit jaar gaat de Bebras-wedstrijd door van **9 november 2026** t.e.m. **20 november 2026**.
 Deze **veertiende editie** vindt **online** plaats **in de klas**. Deelname is **gratis**.
 
 Voor vragen over de wedstrijd kan 
