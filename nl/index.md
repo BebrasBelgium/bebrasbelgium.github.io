@@ -3,7 +3,7 @@ layout: homepage
 challenge:
   challenge: Bebras-wedstrijd
   current_edition: 2026
-  pre: 'De 15e editie van de Belgische Bebras-wedstrijd ging door van'
+  pre: 'De 15e editie van de Belgische Bebras-wedstrijd gaat door van'
   dates: 9 november t.e.m. 20 november 2026
 actions:
   test_platform: Je kan een proefwedstrijdje anoniem uitproberen op de wedstrijd-server.

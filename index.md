@@ -3,7 +3,7 @@ layout: homepage
 challenge:
   challenge: Bebras Challenge
   current_edition: 2026
-  pre: 'The 15th edition of the Bebras Belgium challenge took place from:'
+  pre: 'The 15th edition of the Bebras Belgium challenge takes place from:'
   dates: November 9 to November 20, 2026
 actions:
   test_platform: You can test a challenge anonymously on the dedicated platform.
