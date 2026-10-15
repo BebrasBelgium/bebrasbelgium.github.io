@@ -28,11 +28,7 @@ In dit geval kan jouw collega je inschrijven.
 _Hij heeft enkel jouw school-e-mailadres nodig om je te registreren bij het wedstrijdplatform._
 :::
 
-::: details Jij of je collega's hebben nog nooit aan de wedstrijd deelgenomen
-In dit geval moet je een e-mail sturen naar een [lokaal contactpersoon](../../about/contact/).
+::: details Nieuw bij Bebras? 
 
-_In die e-mail vermeld je je naam, e-mailadres en naam en adres van de school
-waarvoor je de wedstrijd wil organiseren. Gebruik bij voorkeur een officieel
-e-mailadres van je school en voeg een scan of een
-foto van je lerarenkaart toe._
+_Stuur dan een e-mail naar Kris Coolsaet (kris.coolsaet@ugent.be), vanuit je school-e-mailadres. Vermeld ook de naam en het adres van je school._
 :::

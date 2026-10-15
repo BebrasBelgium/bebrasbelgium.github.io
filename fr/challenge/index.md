@@ -10,7 +10,7 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 
 # Participer
 
-Cette année, le challenge Bebras se déroule du **11 novembre 2024 au 22 novembre 2024** inclus (sauf en weekend et les jours fériés). Cette **treizième édition** aura de nouveau lieu **dans les écoles**.
+Cette année, le challenge Bebras se déroule du **9 novembre 2026 au 20 novembre 2026** inclus (sauf en weekend et les jours fériés). Cette **cinquième édition** aura de nouveau lieu **dans les écoles**.
 
 Le challenge se déroule **en ligne** et la participation est **gratuite**. Pour toute question sur le challenge, consultez les [questions fréquemment posées](../faq/) ou [contactez-nous](../about/contact/), si vous n'y trouvez pas de réponse.
 
